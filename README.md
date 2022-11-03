@@ -8,4 +8,5 @@ Phone Number <br />
 Email <br />
 Email <br />
 ... <br />
-Then it will return these values into the clipboard.
+Then it will return these values into the clipboard. <br />
+To use: Extract the zip and run the exe file (Windows only)
